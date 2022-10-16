@@ -41,6 +41,7 @@ class Lab8C {
         array1D = new int [int1D];
         for (int i = 0; i < int1D; i++) {
             System.out.print(intCount + "|");
+            intCount++;
         }
 
 
